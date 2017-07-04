@@ -143,7 +143,8 @@ var _hmt = _hmt || [];
 })();
 </script>
 <!--统计代码END -->
-
+<meta name="keywords" content="凩茻MUMU,信实1601,信实,MUMU0934,MUMU,北京科技大学天津学院,北科天院,贝壳田园" />
+<meta name="description" content="这是凩茻MUMU的主页。Powered by MUMU." />
 </head>
 
 <body>
@@ -419,17 +420,10 @@ foreach($files as $ent) {
 </div>
 <!--About 部分的div   END-->
 
-<!--这是打赏部分的div
-<div style="float: left;padding: 55px 60px  50px 60px; color:white ;width: 200px; height: 250px;" >
-<b>Tip</b><hr>
-<p></p>
-</div> 打赏部分的div  END  -->
-
-
 <!--信实公众号部分DIV-->
 <div style="float: left;padding: 42px 40px 0px 0px; color:white ;width: 150px; text-align: left;">
 <b>微信公众号</b><p><hr></p>
-   <img src="./indexfiles/images/qrwechat.jpg" alt="微信公众号" width="150px" ; height="150px"> <br>
+  <a href="http://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%BF%A1%E5%AE%9E1601&ie=utf8&_sug_=n&_sug_type_="   target="_blank"><img src="./indexfiles/images/qrwechat.jpg" alt="微信公众号" width="150px" ; height="150px"></a>  <br>
 </div>
 <!--信实公众号部分DIV   END-->
 

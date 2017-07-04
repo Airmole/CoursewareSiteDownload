@@ -31,6 +31,21 @@
     </style>
 </head>
 <body>
+<!--公告部分-->
+<div id="tips" style="color:white;background-color:  #34495e;width:100%;height:160px;>
+<div  style="color:white;width:980px;margin:0 auto;border:3px solid #000;padding: 3px 3px 3px 3px;">
+<h3>闭站公告</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;亲爱的同学，一年的时光已经过去了，步入大二的我们将回归原班级上课，鉴于专业方向的不同课件站已经没有继续存在的意义了。故决定本站于2017年7月16日正式关闭，届时本站所有课件将会打包整理成压缩文件上传至班级群文件共享方便大家下载。本站源代码将托管至凩茻MUMU的Github仓库，欢迎感兴趣的同学后续开发维护。微信公众平台将一如既往地为大家提供班级信息资讯通知服务。感谢大家长期以来的支持！<br><span style="float:right">凩茻MUMU</span><br><span style="float:right">2017年6月30日</span>
+</div>
+</div>
+<!--公告部分END-->
+<script language="javascript">
+function codefans(){
+var box=document.getElementById("tips");//还用说？这里的参数必须和div的id对应起来啊
+box.style.display="none";
+}
+setTimeout("codefans()",15000);//15秒，可以改动
+</script>
 
 <div  id="top">
 <div class="title">
